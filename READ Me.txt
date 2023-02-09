@@ -1,0 +1,20 @@
+Pre-made accounts for testing
+
+Admin Acc
+
+Username: Jess
+Password: 123
+------------------------
+Verified Customer Acc 
+
+Username: JisooBP
+Password: 123
+------------------------
+BogusBuyer Acc (Will not be able to any items order)
+
+Username: Blackpink
+Password: 123
+
+*Note: 
+	You can visit the website on a live server on https://jessshoppe.shop/JessShoppe/
+	Forgot password feature doesn't work on local host but it works on the live server.
